@@ -35,4 +35,6 @@
 ![alt text](https://github.com/AjayYadavAi/Laravel-8-Vue-3-ChatApplication/blob/main/image.png?raw=true)
 
 
+
 # Laravel-8-Vue-3-ChatApplication
+`video tutorial -> https://youtu.be/xTQ1Mm8SmXo`
